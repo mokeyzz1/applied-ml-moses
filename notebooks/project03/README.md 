@@ -1,0 +1,8 @@
+# Project 3 – Titanic Classifier
+**Name:** Moses Koroma  
+**Date:** November 2025  
+**Course:** Applied Machine Learning – Project 3  
+
+### Introduction
+In this project, I use the Titanic dataset to predict passenger survival using three classification models: **Decision Tree**, **Support Vector Machine (SVC)**, and **Neural Network (MLP)**.  
+The goal is to compare how well each model performs when trained on different feature combinations and to evaluate performance using accuracy, recall, precision, and confusion matrices.
